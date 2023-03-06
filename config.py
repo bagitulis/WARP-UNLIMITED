@@ -7,7 +7,7 @@ INTERACTIVE_MODE = False  # or True
 # Required if ENV == False
 Vars = [
   # WARP_ID
-  "",
+  "0bf00b0c-14cd-4574-b902-0dd2948e9d0a",
   # SEND_LOG, Want to receive log on Telegram?
   # 1 = Yes or 0 = No
   "",
